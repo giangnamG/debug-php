@@ -27,15 +27,15 @@ zend_extension = D:\xampp\php\ext\php_xdebug-3.2.0-8.1-vs16-x86_64.dll<br>
 <br><br>
 # B7: Tải extension PHP debug trong VSCode.
 <image src="./img/ext.png"></image>
-# Thử nghiệm:
-- Cho một file <b>a.php</b> có nội dung:
+# Thử nghiệm:<br>
+- Cho một file <b>a.php</b> có nội dung:<br>
 <image src="./img/test1.png"></image><br>
-- Để bật chế độ debug nhân tổ hợp phím <b>Ctrl+Shift+D</b>
+- Để bật chế độ debug nhân tổ hợp phím <b>Ctrl+Shift+D</b><br>
 <image src="./img/test2.png"></image><br>
-- Chọn 2 vị trí Breakpoint là điểm đầu và điểm kết thúc.
+- Chọn 2 vị trí Breakpoint là điểm đầu và điểm kết thúc.<br>
 <image src="./img/test4.png"></image>
-
+<br>
 <video src="./img/bandicam 2023-02-09 16-02-44-815.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-bandicam 2023-02-09 16-02-44-815.mp4
+
